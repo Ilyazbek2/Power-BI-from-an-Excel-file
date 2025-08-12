@@ -1,0 +1,6 @@
+How to make a diagram in Power BI from an Excel file — step‑by‑step (made for a GitHub repo)
+Open your workbook and convert each data range into a Table: select the range → Insert → Table. Give the table a meaningful name (Table Design → Table Name).
+
+Ensure first row contains column headers, no merged cells, and correct data types (date columns, numeric columns).
+
+Save as .xlsx. If you plan refresh in cloud, store it on OneDrive / SharePoint (recommended).
