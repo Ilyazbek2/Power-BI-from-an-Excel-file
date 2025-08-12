@@ -1,0 +1,13 @@
+(Example: create a Column chart showing Sales by Region.)
+
+On the Visualizations pane click the Clustered column chart icon. A blank visual appears on the canvas.
+
+Drag Region from Fields to Axis.
+
+Drag Sales to Values (Power BI will aggregate; by default SUM for numeric).
+
+(Optional) Drag Year to Legend to color by year or Product to Tooltip.
+
+Format: click the visual → Format (paint roller) → set Title, Data labels, Axis options, and font sizes.
+
+Resize & position the visual on the canvas. Add slicers (visual filter): choose Slicer visual and put Region or Year into it.
