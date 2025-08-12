@@ -1,0 +1,9 @@
+Install & open Power BI Desktop (free from Microsoft).
+
+Home → Get data → Excel → choose your .xlsx file.
+
+In Navigator choose the Table or Sheet(s) you need. Click Transform Data to open Power Query if you need to clean (recommended) or Load to import as‑is.
+
+In Power Query: set proper data types, remove unnecessary rows, rename columns. Click Close & Apply.
+
+After load, switch to Report view (left pane). Your tables/columns appear in the Fields pane.
